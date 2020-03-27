@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jef.dewitt/CLionProjects/Shopping-Cart/ItemToPurchase.h
+string
+-
+
+/Users/jef.dewitt/CLionProjects/Shopping-Cart/main.cpp
+iostream
+-
+vector
+-
+ItemToPurchase.h
+/Users/jef.dewitt/CLionProjects/Shopping-Cart/ItemToPurchase.h
+
